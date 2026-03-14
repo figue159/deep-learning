@@ -1,4 +1,5 @@
 
+# AUTOR: MIGUEL ANGEL CORDOBA FIGUEROA
 # Red Neuronal Básica – Comparación de Activaciones
 
 ## Objetivo
